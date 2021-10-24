@@ -1,3 +1,5 @@
+"""Correlation code, created by Josue Martinez-Moreno and modified to have a varying t_test threshold using scipy p value function  """
+
 from IPython.display import clear_output
 import collections
 import numpy as np
