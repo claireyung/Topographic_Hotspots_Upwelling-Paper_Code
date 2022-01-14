@@ -1,11 +1,11 @@
-# Topographic_Hotspots_Upwelling-Thesis_Code
+# Topographic_Hotspots_Upwelling-Paper_Code
 
-This repository contains code used in the analysis and presentation of my honours thesis, Topographic Hotspots of Southern Ocean Upwelling (2021).
+This repository contains code used in the analysis and presentation the manuscript Yung et al., Topographic Hotspots of Southern Ocean Upwelling (2022), submitted to Frontiers in Marine Science.
 
 Analysis_Code has the code used to bin data into density bins, create along-contour transport calculations, calculate energy conversion terms etc.
 
-Figure_Code has the code used to create figures, labelled by their number in the thesis.
+Figure_Code has the code used to create figures, labelled by their number in the manuscript.
 
 Requires: cosima cookbook, data access to NCI where ACCESS-OM2-01 model output is housed.
 
-Note schematics and annotations in thesis figures were made using Adobe Illustrator.
+Note schematics and annotations in paper figures were made using Adobe Illustrator.
